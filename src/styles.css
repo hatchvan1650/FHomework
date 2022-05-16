@@ -13,7 +13,7 @@ h2 {
 button {
   background: #fafafa;
   color: rgb(0, 0, 0);
-  border-radius: 5px;
+  border-radius: 2px;
 }
 .container-one {
   margin-bottom: 60px;
@@ -42,8 +42,4 @@ ul {
 
 .current {
   font-size: 25px;
-}
-.cl {
-  border-radius: 3px;
-  font-family: inherit;
 }
