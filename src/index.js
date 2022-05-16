@@ -11,7 +11,15 @@ if (minutes < 10) {
 }
 let year = now.getFullYear();
 
-let days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+let days = [
+  "Sunday",
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday",
+  "Saturday"
+];
 let day = days[now.getDay()];
 
 let months = [

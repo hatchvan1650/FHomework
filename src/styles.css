@@ -43,3 +43,7 @@ ul {
 .current {
   font-size: 25px;
 }
+.cl {
+  border-radius: 3px;
+  font-family: inherit;
+}
