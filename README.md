@@ -1,2 +1,0 @@
-# FHomework
-Created with CodeSandbox
