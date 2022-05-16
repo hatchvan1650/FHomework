@@ -26,7 +26,7 @@ let months = [
 ];
 let month = months[now.getMonth()];
 
-h2.innerHTML = `${day} ${month} ${date}, ${hours}:${minutes}, ${year}`;
+h2.innerHTML = `${day}, ${month} ${date}, ${year} ${hours}:${minutes}`;
 
 //weather display
 function displayWeather(response) {
