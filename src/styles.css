@@ -13,7 +13,7 @@ h2 {
 button {
   background: #fafafa;
   color: rgb(0, 0, 0);
-  border-radius: 10px;
+  border-radius: 5px;
 }
 .container-one {
   margin-bottom: 60px;
@@ -27,11 +27,14 @@ button {
 }
 
 .container-three {
-  background-color: rgb(230, 227, 219);
+  background-color: rgb(226, 222, 222);
   text-align: center;
 }
 
 .row {
   font-size: 20px;
   text-align: center;
+}
+.cl {
+  background-color: rgb(239, 239, 239);
 }
